@@ -1,6 +1,6 @@
 # Morgan Yeh
 # October 29, 2021
-# This is my Whack A Moose game for the final project
+# Whack A Moose - an interactive 2D game created with Pygame
 
 import pygame
 pygame.mixer.pre_init(44100, -16, 2, 2048)
