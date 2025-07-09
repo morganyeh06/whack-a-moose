@@ -1,2 +1,2 @@
 ## Whack A Moose
-An interactive 2D game created with Pygame.
+An interactive 2D game created with PyGame.
